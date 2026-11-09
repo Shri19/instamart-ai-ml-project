@@ -1,0 +1,4 @@
+{"scenario": 1, "order_id": "ORD-100048", "action": "issued_demo", "amount": 128.25}
+{"scenario": 2, "order_id": "ORD-100067", "action": "issued_demo", "amount": 135.0}
+{"scenario": 3, "order_id": "ORD-100145", "action": "escalated", "amount": 1999.0}
+{"scenario": 7, "order_id": "ORD-100048", "action": "issued_demo", "amount": 128.25}
